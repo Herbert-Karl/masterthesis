@@ -1,0 +1,21 @@
+Created by UAC (Unix-like Artifacts Collector) 2.8.0
+
+[Case Information]
+Case Number: 
+Evidence Number: 
+Description: 
+Examiner: 
+Notes: 
+
+[System Information]
+Operating System: openbsd
+System Architecture: amd64
+Hostname: thesis.my.domain
+
+[Acquisition Information]
+Mount Point: /
+Acquisition started at: Wed May 01 08:10:33 2024 +0200
+Acquisition finished at: Wed May 01 08:10:36 2024 +0200
+
+[Output File MD5 Computed Hash]
+MD5 (uac-thesis.my.domain-openbsd-20240501081032.tar.gz) = d2fa39faad5a049e5444106139b5e73d

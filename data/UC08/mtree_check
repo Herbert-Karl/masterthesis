@@ -1,0 +1,709 @@
+.:      modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:29 2024)
+bsd:    link count (2, 1)
+	size (25425460, 25430180)
+	modification time (Tue Apr 30 20:44:33 2024, Wed May  1 18:40:29 2024)
+	cksum (3383066988, 3287095366)
+	MD5 (6d96142e7fae99a03edf2da29be33041, 19e9139ea5afc9e676aa2c670d3d63e9)
+	SHA1 (1f88e0e3fbdabf0d61ba7bd65db3c1edef7e14e2, e5e4cbb8a6af513b5109416604beea0a70714403)
+bsd.booted: 
+	link count (2, 1)
+	size (25425460, 25436732)
+	modification time (Tue Apr 30 20:44:33 2024, Tue Apr 30 20:50:28 2024)
+	cksum (3383066988, 4163172876)
+	MD5 (6d96142e7fae99a03edf2da29be33041, 13db320fd1708b31a921038d7c1dc819)
+	SHA1 (1f88e0e3fbdabf0d61ba7bd65db3c1edef7e14e2, 070932e6014da8132f159394e268f87fdec4821f)
+dev:    modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+dev/console: 
+	modification time (Tue Apr 30 20:49:01 2024, Wed May  1 18:40:16 2024)
+dev/dhcpleased.sock: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+dev/log: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:14 2024)
+dev/null: 
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:41:07 2024)
+dev/ptyp0: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:17 2024)
+dev/ptyp1: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:51 2024)
+dev/slaacd.sock: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+dev/tty: 
+	modification time (Tue Apr 30 20:49:02 2024, Tue Apr 30 20:51:04 2024)
+dev/ttyC0: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:29 2024)
+dev/ttyC1: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:29 2024)
+dev/ttyC2: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:29 2024)
+dev/ttyC3: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:29 2024)
+dev/ttyC5: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:29 2024)
+dev/ttyp0: 
+	gid (0, 4)
+	permissions (0666, 0620)
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:17 2024)
+dev/ttyp1: 
+	modification time (Tue Apr 30 20:44:12 2024, Wed May  1 18:40:51 2024)
+dev/urandom: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+etc:    modification time (Tue Apr 30 20:49:12 2024, Wed May  1 18:40:29 2024)
+etc/motd: 
+	size (445, 442)
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+	cksum (3154010737, 1634843224)
+	MD5 (a8d14e2dd278ba8c26c49052f32ae267, 260c6d51db1aff26cb0b4e438eefa9a9)
+	SHA1 (c3e02010ede63ce970396810e04836c2be35013c, 30e1fefa9d5e0fdc40a06f32cb92bd68bf6deea3)
+etc/mtree_db: 
+	size (81920, 6945984)
+	modification time (Tue Apr 30 20:49:12 2024, Tue Apr 30 20:49:43 2024)
+	cksum (3856434938, 2732813711)
+	MD5 (063b4735d4302b3c0367b54820babfbb, 3fc301e8de460816fba6e691d2fc15a4)
+	SHA1 (7a13ba7a76afc5d80f2d6a74c70e29072425fc6a, a675b17c768ebc52bbce0a9ffa8f7acc663e4169)
+etc/random.seed: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+	cksum (4069312534, 3904124638)
+	MD5 (56d5ddc656d46f67a57f0fb3c5b8a042, bf37de2449535efe42cfd68cc6eb80df)
+	SHA1 (799432b554827970bb474a36be0b562f890b39b8, 2d1dd98bac7c246f3c8b76dd3b483b561c7c3281)
+etc/resolv.conf: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+etc/X11/xenodm: 
+	modification time (Tue Apr 30 20:44:10 2024, Wed May  1 18:40:16 2024)
+extra: etc/X11/xenodm/authdir
+home/admin: 
+	modification time (Tue Apr 30 20:44:11 2024, Wed May  1 18:41:03 2024)
+extra: home/admin/uac-thesis.tar.gz
+extra: home/admin/uac
+root:   modification time (Tue Apr 30 20:44:11 2024, Wed May  1 18:40:18 2024)
+sbin:   modification time (Tue Oct 10 16:41:23 2023, Tue Apr 30 20:50:04 2024)
+sbin/unwind: 
+	size (1161912, 1168424)
+	modification time (Tue Oct 10 16:41:23 2023, Tue Feb 13 13:45:02 2024)
+	cksum (1747240118, 2396886721)
+	MD5 (7d964d421b9b1465c656e81d69aafd74, 699547c6df89d814298b0852f830cf46)
+	SHA1 (d0d0d0e3188a22bef080c135731cc6ec949e4af8, 824e53d5fd476457ce3d712a28f222af5d2967e1)
+tmp:    modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:41:08 2024)
+extra: tmp/.X0-lock
+extra: tmp/mtree_check
+extra: tmp/uac-thesis.my.domain-openbsd-20240501184103.log
+extra: tmp/uac-thesis.my.domain-openbsd-20240501184103.tar.gz
+tmp/.ICE-unix: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+tmp/.X11-unix: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:16 2024)
+extra: tmp/.X11-unix/X0
+tmp/sndio: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+tmp/sndio/sock0: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+usr/X11R6/bin: 
+	modification time (Tue Apr 30 20:44:11 2024, Tue Apr 30 20:50:07 2024)
+usr/X11R6/bin/Xephyr: 
+	size (3067128, 3067544)
+	modification time (Sun Oct  8 17:39:28 2023, Mon Apr  1 15:30:37 2024)
+	cksum (2174419371, 2154771869)
+	MD5 (295fde922fbc8ed61d266e2368068361, 95566da1ab124f161ec0a9b860d42d4b)
+	SHA1 (91e90505ee8379531d321dff0f05a2dc62ba7e00, d3e7c91e7b46ef537ae37e44ca7bb18c53f5acd0)
+usr/X11R6/bin/Xnest: 
+	size (2033496, 2033672)
+	modification time (Sun Oct  8 17:39:27 2023, Mon Apr  1 15:30:32 2024)
+	cksum (2312720960, 497347515)
+	MD5 (a3feb56676b93e6acb94bb916fbab79e, bd613fffa9554766be828f836f1cb828)
+	SHA1 (77e302f8f571a1bb57aec5864917ebc7c40f15d3, 6d67fe3e8102e2867940c268f62e3bf7dd5a15d1)
+usr/X11R6/bin/Xorg: 
+	size (3094720, 3095088)
+	modification time (Sun Oct  8 17:39:22 2023, Mon Apr  1 15:30:21 2024)
+	cksum (246522926, 2266290096)
+	MD5 (3a1615c10eb948684c67b09fde56e4c0, 8721549f6bbd5b50a23ac8157b99762d)
+	SHA1 (2c70e9d4bc70b4323884006853baf9b2c7bdaacd, 4230985bcccd8ed612ca7a1bb9eff04fab25ba9e)
+usr/X11R6/bin/Xvfb: 
+	size (2617456, 2617792)
+	modification time (Sun Oct  8 17:39:26 2023, Mon Apr  1 15:30:29 2024)
+	cksum (3907609690, 3183545100)
+	MD5 (8551fab428fc0b19cab0d3eb2c35ef3f, 22ad2084ad32821f85389b5ea9c3e221)
+	SHA1 (5bdca8f7345b74c15798194599766ab32394c001, bc3f16306c778dae286bdabd5bed422f1164fd0d)
+usr/X11R6/include/xorg: 
+	modification time (Sun Oct  8 17:42:46 2023, Tue Apr 30 20:50:07 2024)
+usr/X11R6/include/xorg/fb.h: 
+	size (31669, 31706)
+	modification time (Sat Jul 27 14:24:56 2019, Sun Oct 22 18:51:12 2023)
+	cksum (897958689, 2241388244)
+	MD5 (60295737b3da1ffe80d454714b059a3d, 6232af42fb67ade07c094b44c29087a7)
+	SHA1 (cc56997008a7c93ef3587e432031a5a127218b2b, 299ba06e997b798fba2345581cd99fb6a371be60)
+usr/X11R6/include/xorg/glyphstr.h: 
+	size (3658, 3710)
+	modification time (Sun May 29 17:36:00 2016, Mon Apr  1 15:27:35 2024)
+	cksum (1270695204, 3929930572)
+	MD5 (596a88b8ef620a4f3dfce6cbdb282554, 1d6e697d17cfbc70dc0a672e72b9b109)
+	SHA1 (4ba6d40effe40f8e155095a7ca5d5c1f34750397, 7663655faa004d1f61efc7e19b4568e1f19eb66a)
+usr/X11R6/lib/modules: 
+	modification time (Sun Oct  8 17:42:44 2023, Tue Apr 30 20:49:55 2024)
+usr/X11R6/lib/modules/libwfb.so: 
+	size (150448, 150576)
+	modification time (Sun Oct  8 17:39:22 2023, Sun Oct 22 19:33:23 2023)
+	cksum (3941941061, 1247351806)
+	MD5 (baf4f416bcde331b667f9f698f15e1dc, 5803977bde4ceeb97fb3c3cffdca6822)
+	SHA1 (f28d9438867b871030bba68d4066c5fe4002419a, 7878b4dcb9455e2f8f3f57f8194cb6f50ee98c97)
+usr/X11R6/lib/modules/extensions: 
+	modification time (Sun Oct  8 17:42:44 2023, Tue Apr 30 20:50:03 2024)
+usr/X11R6/lib/modules/extensions/libglx.so: 
+	size (471680, 471936)
+	modification time (Sun Oct  8 17:39:22 2023, Mon Jan 15 14:05:39 2024)
+	cksum (3138466974, 1510545256)
+	MD5 (6ec80a2150a12d00cb8e4b408240f7b6, 8a94f312a13b36ccc6b6b7ed686af879)
+	SHA1 (557c60c1f00253ef241539378fe9bc6311054dd8, cc8690585e990638323de420399640c26840dec2)
+usr/bin: 
+	modification time (Tue Oct 10 16:42:08 2023, Tue Apr 30 20:50:01 2024)
+usr/bin/patch: 
+	size (66416, 66464)
+	modification time (Tue Oct 10 16:41:27 2023, Mon Nov 20 11:22:11 2023)
+	cksum (4181382500, 4079433182)
+	MD5 (71c163ad9eeee18107b57f8ba37b1820, 63bc82ee35e5d9a0fe88a6e99211b783)
+	SHA1 (a7b200b16e5e15b7c8b528ae3b9069e9b1ec0697, ef8a387119ebf1d296544c8e6d0757a41aa411b4)
+usr/bin/perlbug: 
+	modification time (Tue Oct 10 16:42:04 2023, Mon Nov 27 09:42:22 2023)
+	cksum (2380660676, 2347579023)
+	MD5 (3b6ec37d90bfecdf582b219dccdae99e, f6f3d4b8a65c8be96fca77db326ae2bd)
+	SHA1 (cca0d5577da89de658661d49132c81b1f35f5fb0, d5caf2fa9e70a90dd155a6d3eeab82dcace152e2)
+usr/bin/ssh: 
+	size (936160, 937008)
+	modification time (Tue Oct 10 16:41:29 2023, Thu Dec 14 13:02:16 2023)
+	cksum (3981568336, 1477259382)
+	MD5 (5527619a06cca5fc60fe09d62ceda8a9, 5f1d56208ec1fa883ebfbe1abab60803)
+	SHA1 (55bd9b05d45b7eedd1450e7eff6a8c98b1dc81cf, 99b3e8acb918d0efead91852cde022392c588624)
+usr/bin/ssh-keyscan: 
+	size (566336, 567200)
+	modification time (Tue Oct 10 16:41:29 2023, Thu Dec 14 13:02:16 2023)
+	cksum (2195743812, 1068797028)
+	MD5 (87e1320c02272e44518096ee15ca69c0, 41c87a4fb3407dc64c3afb84ac505799)
+	SHA1 (53ca90c944874759c7584bed93bb66e60bcfe11d, fd90e5ff0334cb0ddcd23e217ae8a49ded4ab393)
+usr/bin/tmux: 
+	size (1060952, 1060936)
+	modification time (Tue Oct 10 16:41:30 2023, Mon Nov 20 11:38:40 2023)
+	cksum (4084282280, 898203207)
+	MD5 (f97aa6fcc6e7dde641a6dc64be221480, c4c932d17a7c1186529a703c7332499a)
+	SHA1 (9df45bf9417801ebaceb97ede2192da15e4f6af0, a9c17db699e7f4ccc41ab9342fa052c8d53b3326)
+usr/include: 
+	modification time (Tue Oct 10 16:41:12 2023, Tue Apr 30 20:50:07 2024)
+extra: usr/include/arpa
+extra: usr/include/openssl
+extra: usr/include/protocols
+extra: usr/include/readline
+extra: usr/include/rpc
+extra: usr/include/rpcsvc
+usr/lib: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+usr/lib/libc.so.97.1: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:14 2024)
+	cksum (4156229252, 861286458)
+	MD5 (c96c349cbb1eae27a6508be22e92cf3a, 6adff285bf950f542cb363eb309bfaa2)
+	SHA1 (38ed86a22d7e5bb62aed09aca67761b31b6e4a2d, 4063e3ee988751261867d9ad257d6429ff4a7b58)
+usr/lib/libcrypto.so.52.0: 
+	size (7111288, 7111384)
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+	cksum (2519683160, 1120418741)
+	MD5 (d1ac81903251f8e7a771fc53ea89066d, 7ca7f60582c9a3dd49ee51498a7b2e98)
+	SHA1 (4630f566d497b23791637066e10f91d45c544d02, c6f6625b3202c8dc4da72cd3383ad66c4f4e8955)
+extra: usr/lib/libexpat.a
+usr/lib/libexpat.so.14.0: 
+	size (559208, 559232)
+	modification time (Tue Oct 10 16:41:17 2023, Fri Mar 15 08:28:43 2024)
+	cksum (3538419706, 2423491636)
+	MD5 (deaa316b6a3af4da4b9bfad43d1d6373, 8d1a596a6808dbb39d183244973ab3ba)
+	SHA1 (58e1ac9fdcf3a5363a44d9d54747e91dc36cbff8, d3c96b7b9538a1ca23fecda64bbad0246e67d24e)
+extra: usr/lib/libexpat_p.a
+usr/lib/libperl.so.23.0: 
+	size (3857080, 3857176)
+	modification time (Tue Oct 10 16:42:04 2023, Mon Nov 27 09:42:22 2023)
+	cksum (248574428, 3789929659)
+	MD5 (36da6e2bafa0a8d3e133ee5ac908ffef, cefc92695dcc7e62742f37ffef007ab9)
+	SHA1 (0b8927c2b5b840204cb2ca6da99739c30d40d197, 9bc91e8cf6255a57d2bb0bb963c74e07bea8434e)
+extra: usr/lib/debug
+usr/libdata/perl5/amd64-openbsd/auto/re: 
+	modification time (Tue Oct 10 16:42:04 2023, Tue Apr 30 20:49:57 2024)
+usr/libdata/perl5/amd64-openbsd/auto/re/re.so: 
+	size (672456, 672568)
+	modification time (Tue Oct 10 16:42:04 2023, Mon Nov 27 09:42:22 2023)
+	cksum (1285378174, 2854877829)
+	MD5 (733905af9c238590c0dbaa646836685f, 56658a10066169400496438878621ecc)
+	SHA1 (86391c2482fdb9087a4c2b56d43e9b0b5d289e2f, c379cec915427357254e84b2755de591f1e1e6ec)
+usr/libexec: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+usr/libexec/ld.so: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+	cksum (2238060400, 3880873439)
+	MD5 (1e51c7fead47e184e684cbef868ee5b8, b0f27f9de075804ea36ecd47df3af399)
+	SHA1 (4e8cd603b5e1d3b15ae7bc5317f879f290217eb7, ed306cf2b2c4481cb3c10ebd31e228492571efad)
+usr/libexec/ld.so.save: 
+	size (321344, 317600)
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+	cksum (48863543, 2238060400)
+	MD5 (60800a5fcc6765710f7a28fba247ec8b, 1e51c7fead47e184e684cbef868ee5b8)
+	SHA1 (288de1321eafd9e4c7eb57c7f6509429bbdf23d5, 4e8cd603b5e1d3b15ae7bc5317f879f290217eb7)
+usr/libexec/ssh-keysign: 
+	size (534960, 535808)
+	modification time (Tue Oct 10 16:41:29 2023, Thu Dec 14 13:02:16 2023)
+	cksum (932477305, 1924810841)
+	MD5 (4c49f9553865983e6b9ba64aa2aab931, 2ed6dda787cef0abb3985c1c0a60411b)
+	SHA1 (532c6afbc9a948d355ff7633bc362877b87a77c5, aeb5b0721b6b9c5c1bac092b570df1a1df45a1da)
+usr/sbin: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+usr/sbin/httpd: 
+	modification time (Tue Oct 10 16:41:33 2023, Mon Nov 20 11:45:14 2023)
+	cksum (4179253306, 3590099550)
+	MD5 (129162be73d49d72974415759c1e8575, dd8ddcaeeb7cfdd6300a41587817ca39)
+	SHA1 (791167315ad085af72edd9c82679db6bc81e81a8, a583524178c3fc7601dab8a048eeba9077c7c8c6)
+usr/sbin/ospfd: 
+	size (204896, 205024)
+	modification time (Tue Oct 10 16:41:34 2023, Mon Nov 20 11:29:24 2023)
+	cksum (1392650199, 2209821952)
+	MD5 (1b42d6adc3a16374d6fa9061cd54fad5, b0d2fba760b9a499d022175f70b1233f)
+	SHA1 (4450fbc06d5ab264e39a4c78c704eaf84fe4e632, 7e26b04b78d21eaa38ca15027f8aa2d2adb8f6b9)
+usr/sbin/sshd: 
+	size (1131592, 1132336)
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+	cksum (2378394703, 4237683623)
+	MD5 (e513c3811fda0c515f5bdf1d012c2564, d61d3e7c804dfdd40f00f67801ab3d6a)
+	SHA1 (d2cffd6849dfe68e1f68b89aae7188e0e776d3d4, 5483d4a6a94ce0d5719b4323f9df1465042435c0)
+usr/sbin/unbound: 
+	size (1126728, 1133208)
+	modification time (Tue Oct 10 16:41:37 2023, Tue Feb 13 13:46:17 2024)
+	cksum (927770401, 3906698291)
+	MD5 (a64590dc3b49d22d70a55a2d73c410bb, 2f856308180a78d6eb29917766b97123)
+	SHA1 (91825dcef03c16c35c40ca96eadc50d634e4b5e0, e7aa6242f0de6c9525328dbdbb9c508d00cc8b72)
+usr/sbin/unbound-anchor: 
+	size (1073792, 1080272)
+	modification time (Tue Oct 10 16:41:37 2023, Tue Feb 13 13:46:17 2024)
+	cksum (3732067185, 696938525)
+	MD5 (2e146a040293c27f3b0447b66e5e80f9, 3331128e78e3256b4d57d5eb9efc66eb)
+	SHA1 (c6675630d100328d3f10af20cfcd48529d6b8050, d2de5bb8e2ce80f00818e6aca3a35c50104209a0)
+usr/sbin/unbound-checkconf: 
+	size (1025864, 1032344)
+	modification time (Tue Oct 10 16:41:37 2023, Tue Feb 13 13:46:17 2024)
+	cksum (2555406588, 443706489)
+	MD5 (5e2c33d896c72bcadc392287fde59ccb, b670c0fe0d3f358947317908ec6800e6)
+	SHA1 (0ba9d13aa165609c011cadb7fa33a598ebe678e0, 60b1cfd88dbc7b5f6371c0c450aa2e35b1ace92e)
+usr/sbin/unbound-control: 
+	size (1031128, 1037592)
+	modification time (Tue Oct 10 16:41:37 2023, Tue Feb 13 13:46:17 2024)
+	cksum (2573250216, 1131695419)
+	MD5 (9d2c4f0096629a8e1f550a0ee624b08f, a5daafec0a85edd4d68d34b08b977ba8)
+	SHA1 (47c986d573c3e8ab4d69f954dc32cab461a97324, 65aef6a64623cb0777b8013f61e40916e6858453)
+usr/sbin/unbound-host: 
+	size (1048904, 1055384)
+	modification time (Tue Oct 10 16:41:37 2023, Tue Feb 13 13:46:17 2024)
+	cksum (1072225058, 1156701576)
+	MD5 (2a31f2d1c91bbcdc7f1f5ae40f482cdd, aefdf571853a5aa8af6e015e5286396f)
+	SHA1 (ab67c99470ecef7270e05fdda80f1210844b3282, 71bcf9178a0629a177398ac6e5a94aae52e3f748)
+usr/share/games: 
+	modification time (Tue Oct 10 16:41:48 2023, Tue Apr 30 20:50:07 2024)
+extra: usr/share/games/atc
+extra: usr/share/games/boggle
+extra: usr/share/games/fortune
+extra: usr/share/games/hack
+extra: usr/share/games/quiz.db
+usr/share/relink: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+usr/share/relink/kernel: 
+	permissions (0700, 0755)
+usr/share/relink/kernel/GENERIC.MP: 
+	gid (0, 21)
+	modification time (Tue Apr 30 20:44:33 2024, Wed May  1 18:40:29 2024)
+usr/share/relink/kernel/GENERIC.MP/bsd: 
+	gid (0, 21)
+	size (25425460, 25430180)
+	modification time (Tue Apr 30 20:44:33 2024, Wed May  1 18:40:29 2024)
+	cksum (3383066988, 3287095366)
+	MD5 (6d96142e7fae99a03edf2da29be33041, 19e9139ea5afc9e676aa2c670d3d63e9)
+	SHA1 (1f88e0e3fbdabf0d61ba7bd65db3c1edef7e14e2, e5e4cbb8a6af513b5109416604beea0a70714403)
+usr/share/relink/kernel/GENERIC.MP/gap.link: 
+	size (632, 633)
+	modification time (Tue Apr 30 20:44:22 2024, Wed May  1 18:40:17 2024)
+	cksum (1504183951, 1081115346)
+	MD5 (9e530c9ffb2721222f6e6a96a5d93299, 204018d8bb3655f90be5b47938f8908a)
+	SHA1 (03ac5910d98d687d1114318d3e6e474102ecbeca, 93d9184069e54755ef0ec8231fcd599806acfe68)
+usr/share/relink/kernel/GENERIC.MP/gap.o: 
+	gid (0, 21)
+	size (17432, 17208)
+	modification time (Tue Apr 30 20:44:23 2024, Wed May  1 18:40:17 2024)
+	cksum (1934163789, 859275695)
+	MD5 (1b4572cce965218808dea4aff9127888, 2d0df081ab54d85840584d354db0a69e)
+	SHA1 (ca85ba274d1e76b6bc856e8e34495b7a1a23fad2, 40c606af6d5b94fe4d52f051325bd04f3a6c82da)
+usr/share/relink/kernel/GENERIC.MP/lorder: 
+	modification time (Tue Apr 30 20:44:23 2024, Wed May  1 18:40:17 2024)
+	cksum (3774485767, 3127306017)
+	MD5 (0bdb23a48d64824086bccafbe11dab8d, 59450451061744db93e30648f9a21cc5)
+	SHA1 (59be591f615ad6e99355fc1ea3c7dfac4151eae3, 8444494b912df8dc256f49644d50bdc157212b1a)
+usr/share/relink/kernel/GENERIC.MP/newbsd.gdb: 
+	gid (0, 21)
+	size (170019768, 170025296)
+	modification time (Tue Apr 30 20:44:27 2024, Wed May  1 18:40:22 2024)
+	cksum (3052832919, 2672018070)
+	MD5 (5015bebc385c02e5b8d5372728f53b70, 8b7bc0462a2cfe0c895c139471996d49)
+	SHA1 (4ae095d4bf071d286a5acb62e5c73b808097d336, 0495befb3d6d0068be9554f0aba769c3cd9c84a8)
+usr/share/relink/kernel/GENERIC.MP/pf.o: 
+	gid (0, 21)
+	permissions (0640, 0644)
+	size (639144, 643376)
+	modification time (Tue Oct 10 16:53:04 2023, Fri Dec  8 23:39:04 2023)
+	cksum (1012388888, 1353187611)
+	MD5 (3c31253b9ab61a1c85e130dc92f7f9cb, 433c1b55bc8cb51094ae7a52fdb6b75a)
+	SHA1 (6291e1ad8842db10c9d5ac8c0225be4c1afc3627, 39f27ea6ba7796b25bd5b693d897c4b9e933339d)
+extra: usr/share/relink/kernel/GENERIC.MP/relink.log
+usr/share/relink/kernel/GENERIC.MP/uipc_mbuf.o: 
+	gid (0, 21)
+	permissions (0640, 0644)
+	size (157760, 157704)
+	modification time (Tue Oct 10 16:53:27 2023, Sun Oct 22 20:03:45 2023)
+	cksum (2741312831, 3383159797)
+	MD5 (9f7dbb6b2127a1a94ff620489e3566fe, 14e5b0326e77d7218270799d358abec5)
+	SHA1 (e2c43b8517e4ec93e4de86a0a818d0b75a1fa280, 03b9276f4fe24953c98f6a332623be3b2d8fddd5)
+usr/share/relink/kernel/GENERIC.MP/vers.o: 
+	gid (0, 21)
+	permissions (0640, 0644)
+	modification time (Tue Oct 10 17:02:37 2023, Wed Feb 28 14:23:33 2024)
+	cksum (2875604449, 4051933824)
+	MD5 (49c49c7e0a63277f3d9254c02f3c0615, 7bdcd0f83fda21a4fc0001c566cc9410)
+	SHA1 (e1112040b6d3c6d6ff99eb2a82c308be58ac04c5, c3c12fdb98c2c3111e5b51fd501f72cb4426745a)
+usr/share/relink/kernel/GENERIC.MP/vmm_machdep.o: 
+	gid (0, 21)
+	permissions (0640, 0644)
+	size (325216, 324424)
+	modification time (Tue Oct 10 17:02:35 2023, Wed Feb 28 14:23:33 2024)
+	cksum (3624225623, 151474432)
+	MD5 (2ccf98e1701bc9f05c187dcadbabd731, e5dd26a1db32a3f4a7af5a46729536f0)
+	SHA1 (59131d371feabcf53afffabb8055af5382582732, 11dc2823c449721966a59f7770752beddf5bcb7c)
+usr/share/relink/usr/sbin/sshd: 
+	gid (0, 7)
+	modification time (Tue Oct 10 16:41:29 2023, Tue Apr 30 20:50:01 2024)
+usr/share/relink/usr/sbin/sshd/sshd.tar: 
+	modification time (Tue Oct 10 16:41:29 2023, Thu Dec 14 13:02:16 2023)
+	cksum (3159591905, 2698957727)
+	MD5 (52b0bdd940aad14c492b9a5222d68c3e, f176f55819537864e0f867feb4d06d7f)
+	SHA1 (d0f6328c2b6fd831ab3e36ae9de4b8ab837e62d8, f5c600277d4cbf807b06c0f4ddb1511c3b68eaa7)
+var/account/acct: 
+	size (72768, 444864)
+	modification time (Tue Apr 30 20:49:35 2024, Wed May  1 18:41:34 2024)
+	cksum (1518914298, 4151456671)
+	MD5 (afd80eb32a8f4a5a2a79d3b3c2b85275, 6825b8f831fc6cf4fb1f946d09bd0e36)
+	SHA1 (35728920d7fdc60637456a8ea85fdc993a486eac, 5e695cf200eaaaff9e1f17b7e98772c836a32cb8)
+var/backups: 
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:41:03 2024)
+extra: var/backups/etc_motd.backup
+var/backups/etc_motd.current: 
+	size (445, 442)
+	modification time (Tue Apr 30 20:45:33 2024, Wed May  1 18:41:02 2024)
+	cksum (3154010737, 1634843224)
+	MD5 (a8d14e2dd278ba8c26c49052f32ae267, 260c6d51db1aff26cb0b4e438eefa9a9)
+	SHA1 (c3e02010ede63ce970396810e04836c2be35013c, 30e1fefa9d5e0fdc40a06f32cb92bd68bf6deea3)
+extra: var/backups/setuid.backup
+var/backups/setuid.current: 
+	modification time (Tue Apr 30 20:45:32 2024, Wed May  1 18:41:02 2024)
+	cksum (2387024856, 225422262)
+	MD5 (ed251a1cdb2d3eef176e4aae4a11a96e, 13f990587d4eac7f7b8be178ba6ab90d)
+	SHA1 (1c0b074c401f8371c176e81e75c55025ecefc78d, f9deb440d7f81803890f05785c829dd78e7aae42)
+var/cron/log: 
+	size (0, 116)
+	modification time (Tue Oct 10 16:41:00 2023, Wed May  1 18:40:29 2024)
+	cksum (4294967295, 4260614991)
+	MD5 (d41d8cd98f00b204e9800998ecf8427e, cf29a82bad327710520bd4e09a2cba2c)
+	SHA1 (da39a3ee5e6b4b0d3255bfef95601890afd80709, 540803db9cfc727fb193b56370122c7f0b21f549)
+var/db: modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:40:15 2024)
+var/db/host.random: 
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+	cksum (2139995321, 3904187099)
+	MD5 (f248c42fce9edb11bc49dd8078f9f949, e729bc8eb8cf7195f851852579d55661)
+	SHA1 (7b8ab79b86fd213b308ee95053e15a612e7882ac, 71bc5fcbc026ecd99c4d5a54197a6b522d9bc325)
+var/db/kernel.SHA256: 
+	modification time (Tue Apr 30 20:44:33 2024, Wed May  1 18:40:29 2024)
+	cksum (537103586, 262422820)
+	MD5 (13972cf11585c7d5a75472a722d2d940, 4831e0e1b3a6d6352f0d6489a819f179)
+	SHA1 (5cf6d4939835737caf69bb185e552a4fbabe3d6f, 386f3e7566bfa58ee872abe3895a9eaad9cda978)
+var/db/kvm_bsd.db: 
+	size (5230592, 5193728)
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+	cksum (2816504559, 2813869726)
+	MD5 (aca66178fd6b9bcbc9207d89f5ed8d80, 2efb7c2478dc744c15d0781ccd6581cc)
+	SHA1 (5a5a36f6c0b2eaa3a17de279236054cc3e196922, 987e832fc319075a4e68bf92254b8b2d036292bd)
+var/db/locate.database: 
+	size (237597, 255961)
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:41:01 2024)
+	cksum (815434712, 2470720068)
+	MD5 (0eee1754e2db68f9e7468f4e6cdf834d, dfd41357f237887a99033ee712d8eb10)
+	SHA1 (9a65d3cbeb9ade7d36d1e31791c9a37e5c81ca4c, 02587fe066f27b4be93232b042c498d78346ded8)
+var/db/mountdtab: 
+	modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/APIC.3: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/DSDT.2: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/FACP.1: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/RSDT.0: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/WAET.4: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/acpi/headers: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/db/dhcpleased: 
+	modification time (Tue Apr 30 20:45:32 2024, Wed May  1 18:40:29 2024)
+var/db/dhcpleased/vio0: 
+	modification time (Tue Apr 30 20:45:01 2024, Wed May  1 18:40:13 2024)
+var/games: 
+	modification time (Tue Oct 10 16:41:00 2023, Tue Apr 30 20:50:07 2024)
+extra: var/games/phantasia
+extra: var/games/save
+var/log: 
+	modification time (Tue Apr 30 20:49:41 2024, Wed May  1 18:40:29 2024)
+extra: var/log/Xorg.0.log
+var/log/authlog: 
+	size (141, 1628)
+	modification time (Tue Apr 30 20:45:32 2024, Wed May  1 18:41:01 2024)
+	cksum (2422240204, 3477430072)
+	MD5 (646fcd0f7e1da31b5fed8d7b8ed0de35, 27f62d339d67ee0758b23fa86240b06c)
+	SHA1 (d73173707a8d463b407bfcf7005dddc1e3e56ad7, 28094017a420bd8d73936f97f160315f43f1c868)
+var/log/daemon: 
+	size (10930, 24114)
+	modification time (Tue Apr 30 20:49:42 2024, Wed May  1 18:41:36 2024)
+	cksum (275031316, 4059203060)
+	MD5 (c50b0441bc78c817664c08414c606e6d, 6f3779858280e3aff017fc6d4a46be36)
+	SHA1 (1fc7b1c18f8293bd3926ec616710bb652f45b16e, 7ae6030f9733e7b20956345cf5a0fc0dee7a1cb3)
+var/log/lastlog: 
+	size (0, 272272)
+	modification time (Tue Oct 10 16:41:00 2023, Wed May  1 18:40:49 2024)
+	cksum (4294967295, 3101453682)
+	MD5 (d41d8cd98f00b204e9800998ecf8427e, 7139e5ee9979c0514720f678d5c45359)
+	SHA1 (da39a3ee5e6b4b0d3255bfef95601890afd80709, 64a88e693b1e4bf7f1872daaf915d867b51f05ed)
+var/log/maillog: 
+	size (2071, 3477)
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:40:29 2024)
+	cksum (3832393105, 29745646)
+	MD5 (e5609be161082b912f21f3e159bdcacc, cd04ff75fb160982860068e8d9ae3e94)
+	SHA1 (cbe9b6998cc6cf048263205a1c94de375c178b9c, cab39d62e4cdd4022f2b473abaf079d84fa800cd)
+var/log/messages: 
+	size (14147, 23791)
+	modification time (Tue Apr 30 20:49:04 2024, Wed May  1 18:41:00 2024)
+	cksum (3160986256, 2914572831)
+	MD5 (cbf768695396d2acd03b61fe0cc75462, e3c1943535d7462cbeed28bb704a2af7)
+	SHA1 (cec461eefb6c3449217afb4df718a62a08fede3b, 8728c3cee25574093c480c3d305dc1b54867c9be)
+var/log/pflog: 
+	size (24, 4387)
+	modification time (Tue Apr 30 20:45:32 2024, Wed May  1 18:41:04 2024)
+	cksum (2789916637, 137341838)
+	MD5 (af327b24ed7482b59989413894a0210b, 6c72de9382e36bda31f92c5dae034463)
+	SHA1 (83bbcaa9506f51e74fc76c5de1d6694d35ef2709, 553274da3c417f3e92ae93569d9dc8166fd20c9c)
+var/log/secure: 
+	size (0, 368)
+	modification time (Tue Oct 10 16:41:00 2023, Wed May  1 18:41:30 2024)
+	cksum (4294967295, 4047646119)
+	MD5 (d41d8cd98f00b204e9800998ecf8427e, d03bf03b81d269ab600510795eb51569)
+	SHA1 (da39a3ee5e6b4b0d3255bfef95601890afd80709, a264d161ef9a5f64d5998f1e9ef329a73c0223e7)
+var/log/wtmp: 
+	size (0, 2128)
+	modification time (Tue Oct 10 16:41:00 2023, Wed May  1 18:40:51 2024)
+	cksum (4294967295, 2655579735)
+	MD5 (d41d8cd98f00b204e9800998ecf8427e, 451304f63f5306a19837bca2bab19de6)
+	SHA1 (da39a3ee5e6b4b0d3255bfef95601890afd80709, f36c09d03e4d4c110aa1abd80692609f391bc941)
+extra: var/log/x11vnc
+extra: var/log/xenodm.log
+var/log/pflow: 
+	modification time (Tue Apr 30 20:49:41 2024, Wed May  1 18:41:36 2024)
+extra: var/log/pflow/nfcapd.20240430204940
+extra: var/log/pflow/nfcapd.20240430204945
+extra: var/log/pflow/nfcapd.20240430204950
+extra: var/log/pflow/nfcapd.20240430204955
+extra: var/log/pflow/nfcapd.20240430205000
+extra: var/log/pflow/nfcapd.20240430205005
+extra: var/log/pflow/nfcapd.20240430205010
+extra: var/log/pflow/nfcapd.20240430205015
+extra: var/log/pflow/nfcapd.20240430205020
+extra: var/log/pflow/nfcapd.20240430205025
+extra: var/log/pflow/nfcapd.20240430205030
+extra: var/log/pflow/nfcapd.20240430205035
+extra: var/log/pflow/nfcapd.20240430205040
+extra: var/log/pflow/nfcapd.20240430205045
+extra: var/log/pflow/nfcapd.20240430205050
+extra: var/log/pflow/nfcapd.20240430205055
+extra: var/log/pflow/nfcapd.20240430205100
+extra: var/log/pflow/nfcapd.20240430205105
+extra: var/log/pflow/nfcapd.20240430205110
+extra: var/log/pflow/nfcapd.20240501184015
+extra: var/log/pflow/nfcapd.20240501184020
+extra: var/log/pflow/nfcapd.20240501184025
+extra: var/log/pflow/nfcapd.20240501184030
+extra: var/log/pflow/nfcapd.20240501184035
+extra: var/log/pflow/nfcapd.20240501184040
+extra: var/log/pflow/nfcapd.20240501184045
+extra: var/log/pflow/nfcapd.20240501184050
+extra: var/log/pflow/nfcapd.20240501184055
+extra: var/log/pflow/nfcapd.20240501184100
+extra: var/log/pflow/nfcapd.20240501184105
+extra: var/log/pflow/nfcapd.20240501184110
+extra: var/log/pflow/nfcapd.20240501184115
+extra: var/log/pflow/nfcapd.20240501184120
+extra: var/log/pflow/nfcapd.20240501184125
+extra: var/log/pflow/nfcapd.20240501184130
+extra: var/log/pflow/nfcapd.current.11596
+var/mail: 
+	modification time (Tue Apr 30 20:49:05 2024, Tue Apr 30 20:50:18 2024)
+var/mail/admin: 
+	size (15047, 690182)
+	modification time (Tue Apr 30 20:49:05 2024, Tue Apr 30 20:50:18 2024)
+	cksum (176442467, 2283657005)
+	MD5 (ddfd4529445f4b2b36f7ab6f8a5cd98f, 0fcc89e3eb33882f36f32875329ff8df)
+	SHA1 (eebff33357dd02b8d775a49c83d9ef7b238144ce, 597bd50a477c4c4f6fc9811d35297fcc5a949543)
+var/mysql: 
+	modification time (Tue Apr 30 20:49:04 2024, Wed May  1 18:40:29 2024)
+var/mysql/aria_log.00000001: 
+	modification time (Tue Apr 30 20:48:30 2024, Tue Apr 30 20:51:13 2024)
+	cksum (282269728, 2875501878)
+	MD5 (071ebd468a56561c7b9cd2e31d22590b, 0dcec67bbf64c0bbcbbe5c6b37e9f803)
+	SHA1 (c2273614969cfc3631bf62e919644fd60298cf1f, 0f7ef965a928971a5c0e285f234869ebe4ba310a)
+var/mysql/aria_log_control: 
+	modification time (Tue Apr 30 20:48:29 2024, Tue Apr 30 20:51:13 2024)
+	cksum (1037821337, 4172096113)
+	MD5 (d780ad72e218e2a74d62730dc8e8e1d9, 7c636b14ccff17288e49da256e41ff35)
+	SHA1 (20967fcd8dbe2f8a3c4e13fd113d6d8fbf1eda08, 3cbb0eddbd6be33f059c2f5b13138ebff7ccd427)
+var/mysql/ddl_recovery.log: 
+	modification time (Tue Apr 30 20:48:29 2024, Wed May  1 18:40:15 2024)
+var/mysql/ib_buffer_pool: 
+	size (946, 910)
+	modification time (Tue Apr 30 20:48:29 2024, Tue Apr 30 20:51:13 2024)
+	cksum (1097526549, 1956062271)
+	MD5 (f9758f5bc68be55f70221b3c327c312e, 3ed89f3fa187121488e042febd89a196)
+	SHA1 (92d7704ef7a8126f5886a330ff455dc61f0f00c3, 37aaaef152b5f74caa001efb4fbcc235bd835c8c)
+var/mysql/ib_logfile0: 
+	modification time (Tue Apr 30 20:48:29 2024, Tue Apr 30 20:51:13 2024)
+	cksum (1986117200, 397467201)
+	MD5 (1d66e63753e97fff7a082fb13f4b4566, 124eafdb7dd6d3a77fcafe2e2c0d6f51)
+	SHA1 (1c8060cbc8f74a1a05f1e33095c94707d38e06ed, b5440e2905dc0c69b2d65ad3a543f64927a8c49b)
+var/mysql/ibdata1: 
+	modification time (Tue Apr 30 20:48:29 2024, Tue Apr 30 20:51:13 2024)
+	cksum (3486799709, 3042048774)
+	MD5 (82cb7b68b8168425735cc35f98244425, 35b44d03c1b7753ad7d223685ae71f8e)
+	SHA1 (ecd7dd67ef398f05c319a42822a42d1ee8cf2c49, d64c73fa1f9ee4b5c6efc307fec99f9003c59871)
+var/mysql/ibtmp1: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+var/mysql/thesis.my.domain.err: 
+	size (3579, 8219)
+	modification time (Tue Apr 30 20:49:42 2024, Wed May  1 18:40:16 2024)
+	cksum (2527839508, 690601824)
+	MD5 (ccae1c4235e9bb5b7e996dd36a2e39ea, 6814f0499e631e8a6d4db9a499aa36b0)
+	SHA1 (e147a66f88dee752a0b9beb01598b007097eb678, e8513435c94ba5e431b8a424400b5dff57c23646)
+var/mysql/thesis.my.domain.pid: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+	cksum (2939297343, 1237052454)
+	MD5 (2ba0f68919030fae7ba5ae22cc1c9f66, 4d31e152873c23e87621691f53e35afe)
+	SHA1 (9f34539eb890e01f53a9e5cacb8bce59dbff24cd, 61b6ed6df4c32874cddfc003c20fbeebe1430ccd)
+var/mysql/mysql/global_priv.MAD: 
+	modification time (Tue Apr 30 20:48:29 2024, Tue Apr 30 20:50:18 2024)
+	cksum (2093592639, 1106353510)
+	MD5 (4ca6267c3c64f7d9bec4ac95fa2ae0fc, 96d8d0dfb5f1165f5e0b582c245e2236)
+	SHA1 (85a25b75cccb286559e66098ec01d547fd6bf8f8, 3d20c56e47c7aa2747338f5c264919aa7522e811)
+var/mysql/mysql/global_priv.MAI: 
+	modification time (Tue Apr 30 20:49:43 2024, Tue Apr 30 20:50:18 2024)
+	cksum (2559786150, 1244639683)
+	MD5 (f87cb5b9c0b4afb779352d205efe4e6c, de959d353f419685d4195b3e2e375366)
+	SHA1 (7b5c1799c9392ec510b4ce2d24a58169ae05d4c5, 8e0bd27c581fb0c344c88c3edeeab8988029fe34)
+var/run: 
+	modification time (Tue Apr 30 20:49:04 2024, Wed May  1 18:40:18 2024)
+extra: var/run/cron.sock
+var/run/dev.db: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/dmesg.boot: 
+	size (5808, 5814)
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:14 2024)
+	cksum (389725587, 4211338023)
+	MD5 (0c991aab0e267fbe2dbcd7df95f09a01, 73cf5f00cfe9f24bebf0ec92b7e1e8dd)
+	SHA1 (74fe0e1ba6e879363693247f9da4c85a112bd78d, 6623e1178b9bdc453835e5c66a61af0030d90350)
+var/run/ld.so.hints: 
+	modification time (Tue Apr 30 20:49:00 2024, Wed May  1 18:40:15 2024)
+var/run/mountd.pid: 
+	modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:15 2024)
+	cksum (675682935, 2061563782)
+	MD5 (5a9446d9590fda9144313d70ae336267, dfc833c6b5db9c988922b5bab06f2e17)
+	SHA1 (09688e877dbd53869c4397319f0cc06d70404058, ab8e00742698c2ea460279673e2d970a046dfe7b)
+var/run/ntpd.sock: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:14 2024)
+var/run/smtpd.sock: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/sshd.pid: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+	cksum (3570525609, 3683294118)
+	MD5 (0197b96582d6754f1826fa5c7e72dac9, 8b23d263019469efcb422733ba04afbe)
+	SHA1 (25c6f2cc810ce48bb51e165091029b95cb70b43e, 25d1f8bb3bf978ff3355461791d6e7a422be4550)
+var/run/syslog.pid: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:14 2024)
+	cksum (676345041, 3040348981)
+	MD5 (dfa2177555c44670c327b523e7185d9d, fa76059e7afb5a91dcf214592d0b29e2)
+	SHA1 (a0dacdaa18c442ed9b5d83d7f18e47d21898d0cd, 9778028b373cc4ecabbc66e3445c7fea93e18032)
+var/run/utmp: 
+	size (0, 7296)
+	modification time (Tue Apr 30 20:45:02 2024, Wed May  1 18:40:51 2024)
+	cksum (4294967295, 316038943)
+	MD5 (d41d8cd98f00b204e9800998ecf8427e, b085ad351eb1b9bbe4e07d62328cc426)
+	SHA1 (da39a3ee5e6b4b0d3255bfef95601890afd80709, 869e158cc5f6bad86177cd211f22d67e3b77867f)
+var/run/mysql: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+var/run/mysql/mysql.sock: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+var/run/rc.d: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+extra: var/run/rc.d/cron
+var/run/rc.d/mountd: 
+	modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/mysqld: 
+	modification time (Tue Apr 30 20:48:30 2024, Wed May  1 18:40:16 2024)
+var/run/rc.d/nfsd: 
+	modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/ntpd: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/pflogd: 
+	modification time (Tue Apr 30 20:46:06 2024, Wed May  1 18:40:14 2024)
+var/run/rc.d/portmap: 
+	modification time (Tue Apr 30 20:46:36 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/smtpd: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/sndiod: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/sshd: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/run/rc.d/syslogd: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:14 2024)
+extra: var/run/rc.d/x11vnc
+extra: var/run/rc.d/xenodm
+var/spool/smtpd: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+var/spool/smtpd/incoming: 
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:40:15 2024)
+var/spool/smtpd/purge: 
+	modification time (Tue Apr 30 20:45:03 2024, Wed May  1 18:40:15 2024)
+extra: var/spool/smtpd/purge/1362684443
+extra: var/spool/smtpd/purge/4101038847
+var/spool/smtpd/queue: 
+	modification time (Tue Apr 30 20:49:05 2024, Tue Apr 30 20:50:18 2024)
+extra: var/spool/smtpd/queue/8b
+extra: var/spool/smtpd/queue/d2
+var/spool/smtpd/temporary: 
+	modification time (Tue Apr 30 20:49:05 2024, Wed May  1 18:40:15 2024)
+var/syspatch: 
+	modification time (Tue Oct 10 16:41:00 2023, Tue Apr 30 20:50:06 2024)
+extra: var/syspatch/74-001_xserver
+extra: var/syspatch/74-002_msplit
+extra: var/syspatch/74-003_patch
+extra: var/syspatch/74-004_ospfd
+extra: var/syspatch/74-005_tmux
+extra: var/syspatch/74-006_httpd
+extra: var/syspatch/74-007_perl
+extra: var/syspatch/74-008_vmm
+extra: var/syspatch/74-009_pf
+extra: var/syspatch/74-010_xserver
+extra: var/syspatch/74-011_ssh
+extra: var/syspatch/74-012_xserver
+extra: var/syspatch/74-013_unbound
+extra: var/syspatch/74-014_vmm
+extra: var/syspatch/74-015_expat
+extra: var/syspatch/74-016_xserver
+missing: ./etc/rc.firsttime.run
+missing: ./var/log/ai.log.4582
+missing: ./var/log/pflow/nfcapd.current.84293
