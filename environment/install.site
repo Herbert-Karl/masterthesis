@@ -1,0 +1,79 @@
+#! /bin/ksh
+
+# we append our custom steps to the rc script run once at startup
+cat <<- EOF >> /etc/rc.firsttime
+# extend PATH to also cover programs that will be installed
+export PATH=\$PATH:/usr/local/bin:/usr/local/sbin
+
+# --- prepare_artifacts.sh ---
+# root check
+if [ \$(id -u) -ne '0' ]; then
+        echo "Script needs to be executed as root!"
+        exit
+fi
+
+interface="vio0"
+ipaddress=\$(ifconfig \$interface | grep "inet " | awk '{print \$2}')
+port=41337
+rotation_interval=5
+
+# setting up system accounting
+echo "setting up system accounting"
+touch /var/account/acct && accton /var/account/acct # activating accounting for the current system life
+rcctl enable accounting # have accounting be active on reboot
+
+# check for locate database
+if [ ! -f /var/db/locate.database ]; then
+	echo "locate database seems to be missing, so we have it created"
+	/usr/libexec/locate.updatedb
+fi
+
+# make sure there is at least one rotation of security backups
+/usr/libexec/security
+
+# configuring pf for the depending artifacts
+sed -i '1,/block return/ s/block return/block return log/' /etc/pf.conf # logging for blocked traffic
+sed -i '1,/pass/ s/pass/pass log keep state (pflow)/' /etc/pf.conf # logging for passed traffic as well as creation of netflow/ipflow
+# decreasing delay of data flush for pflogd
+rcctl set pflogd flags "-d 5"
+rcctl restart pflogd
+# creating network pseudo-interface for exporting pflow
+echo "flowsrc \$ipaddress flowdst \$ipaddress:\$port" > /etc/hostname.pflow0 
+echo "pflowproto 10" >> /etc/hostname.pflow0 # set protocol used to IPFIX even if "implementation is incomplete", because the missing stuff in its implementation is not relevant
+sh /etc/netstart # activating the new interface pflow0
+# capturing pflow data
+pkg_add nfdump
+mkdir /var/log/pflow
+echo "/usr/local/bin/nfcapd -D -t \$rotation_interval -b \$ipaddress -p \$port -l /var/log/pflow" >> "/etc/rc.local"
+nfcapd -D -t \$rotation_interval -b \$ipaddress -p \$port -l /var/log/pflow
+
+# --- changes for use cases ---
+echo "permit nopass keepenv :wheel" > /etc/doas.conf
+mkdir /share && chmod 777 /share && echo '/share -mapall=admin -network=192.168.0.0 -mask=255.255.0.0' > /etc/exports
+rcctl enable portmap mountd nfsd && rcctl start portmap mountd nfsd
+echo "#!/usr/bin/env sh" > /share/setup.sh
+echo "echo foobar" >> /share/setup.sh
+chmod 777 /share/setup.sh
+ssh-keygen -q -f mykey -P "" && mv mykey /home/admin/.ssh/mykey && chown -R admin:admin /home/admin/.ssh && rm /mykey.pub
+pkg_add firefox
+pkg_add mariadb-server && rcctl enable mysqld && mysql_install_db
+rcctl start mysqld
+# mysql_secure_installation # <enter>, n, n, Y, n, Y, Y # relevant parts from the script are run in the next steps (as the script is non-interactive)
+mysql -e "DELETE FROM mysql.global_priv WHERE User='';" # removing anonymous users
+mysql -e "DROP DATABASE IF EXISTS test;" && mysql -e "DELETE FROM mysql.db WHERE Db='test' OR Db='test\\\\_%'" # removing test databases
+mysql -e "FLUSH PRIVILEGES;" # reloading privileges
+sed -i 's/bind-address=localhost/bind-address= \*/' /etc/my.cnf && rcctl restart mysqld
+mysql -e "GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456' WITH GRANT OPTION;"
+# setup vnc
+rcctl enable xenodm
+pkg_add x11vnc
+rcctl enable x11vnc
+echo 'x11vnc_flags="-listen 0.0.0.0 -logfile /var/log/x11vnc -ncache 0 -display :0 -forever -loop100 -auth guess"' >> /etc/rc.conf.local
+# make sure maintenance task have run at least once
+/bin/sh /etc/daily
+/bin/sh /etc/weekly
+/bin/sh /etc/monthly
+# mtree specification for change diffing
+mtree -c -K cksum,md5digest,sha1digest -s 1337 > /etc/mtree_db 
+syspatch # might need a reboot, so run last
+EOF

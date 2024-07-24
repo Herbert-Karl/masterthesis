@@ -1,0 +1,10 @@
+version: 1.0
+artifacts:
+  -
+    description: Parses netflow and ipfix data collected by nfcapd and stored under /var/log
+    supported_os: [openbsd]
+    collector: command
+    foreach: for flowfile in /var/log/pflow/nfcapd.[0-9]*; do echo ${flowfile}; done
+    command: nfdump -r %line%
+    output_file: nfdump_%line%.txt
+
